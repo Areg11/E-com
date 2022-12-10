@@ -20,7 +20,7 @@ See: (https://education.github.com/git-cheat-sheet-education.pdf). For first tim
 
 Usage Notes
 ---------------
-* At current state Stripe is mainly functional in the fashion tab located at the top of the home page.
+* At current state Stripe is mainly functional in the fashion tab and sports tab located at the top of the home page.
 * Each website tab is seperated and labeled in its own html file located in the code section of the repository, simply edit the code to your liking to configure as needed.
 * The main page code is located under the index html folder.
 
